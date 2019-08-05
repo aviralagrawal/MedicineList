@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MedicineList</string>
+    <string name="title_activity_medicine_add_edit">MedicineAddEdit</string>
+    <string name="default_web_client_id">298703745868-f4878t5nr5dgnqpp2rcclbc3rtulrjju.apps.googleusercontent.com</string>
+</resources>

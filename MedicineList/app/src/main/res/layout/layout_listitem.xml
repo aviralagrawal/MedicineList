@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/parent_layout"
+    android:orientation="horizontal"
+    android:background="@color/blue"
+    android:layout_marginTop="5dp"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/medicine_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medicine1"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/dosage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="80dp"
+        android:text="50"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/amount_purchased"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="100"
+        android:layout_marginLeft="90dp"
+        android:textSize="10dp"/>
+
+    <TextView
+        android:id="@+id/share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:text="SHARE"
+        android:textSize="10dp"/>
+</LinearLayout>

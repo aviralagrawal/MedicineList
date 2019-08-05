@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "298703745868",
+    "firebase_url": "https://medicinelist-4d80e.firebaseio.com",
+    "project_id": "medicinelist-4d80e",
+    "storage_bucket": "medicinelist-4d80e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298703745868:android:7c53c3fa6c378db7",
+        "android_client_info": {
+          "package_name": "com.example.aviral.medicinelist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298703745868-ds3gjtmct3orqhugbib2iuau2a19f1sl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aviral.medicinelist",
+            "certificate_hash": "a9d78740ab17a244d34980f21c26516e84e21845"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxQPLpbhekOBdGXvpNvqkz66CLAtEhU4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298703745868-e97hu6am90sdrss0v5cs1bhoeor6a7a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
